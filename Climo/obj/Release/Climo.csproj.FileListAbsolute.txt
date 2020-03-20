@@ -1,0 +1,14 @@
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\bin\Release\Climo.exe.config
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\bin\Release\Climo.exe
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\bin\Release\Climo.pdb
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\bin\Release\Newtonsoft.Json.dll
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\MainWindow.g.cs
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\App.g.cs
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\Climo_MarkupCompile.cache
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\Climo_MarkupCompile.lref
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\MainWindow.baml
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\Climo.g.resources
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\Climo.Properties.Resources.resources
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\Climo.csproj.GenerateResource.Cache
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\Climo.exe
+C:\Users\kdw115\Documents\Visual Studio 2015\Projects\ClimoWindowApp\Climo\obj\Release\Climo.pdb
